@@ -1,5 +1,5 @@
 ---
-title: "Temario del Curso de Estadística Nivel Básico"
+title: "Temario del Curso de Estadística Nivel Intermedio"
 author: "David Murillo"
 format: html
 editor: visual
@@ -7,7 +7,7 @@ editor: visual
 
 [<img src="HN Cursos publicidad/HN Biology Inv Circle.jpg" align="right" width="100"/>](https://www.hnbiology.org/)
 
-¿Quieres adentrarte en el mundo de la estadística pero no sabes por dónde empezar? ¡Este curso es perfecto para ti! En nuestro programa de Estadística Básica, te introduciremos en los fundamentos esenciales de la estadística utilizando la plataforma R y RStudio.
+Si estás interesado en profundizar en el mundo de la estadística, ¡este curso intermedio es perfecto para ti! En este curso intermedio, exploraremos temas más avanzados en estadística utilizando R y RStudio. 
 
 # Inscripciones
 
@@ -19,9 +19,9 @@ editor: visual
 
 # Costos de Inscripción:
 
--   Inversión en USD (Dólares estadounidenses): 30 USD.
+-   Inversión en USD (Dólares estadounidenses): 35 USD.
 
--   Inversión para hondureños: 700 Lempiras hondureños.
+-   Inversión para hondureños: 800 Lempiras hondureños.
 
 # Métodos de Pago:
 
@@ -51,17 +51,17 @@ En este curso, exploraremos los conceptos clave de la estadística de una manera
 
 # Temas que Cubriremos:
 
-[Introducción a R y RStudio:](Introduccion.html).
+[Limpieza y Manejo de Datos](Introduccion.html).
 
-[Comandos básico, uso de scripts y Estadística descriptiva](EstadisticaDescriptiva.html)
+[Modelo Lineal General](EstadisticaDescriptiva.html)
 
-[Pruebas de normalidad, Pruebas de hipótesis (T-Student)](Hipotesis.html)
+[GLM con Distribución de Poisson](Hipotesis.html)
 
-[Pruebas de homocedasticidad y Análisis de varianza (ANOVA)](Anova.html)
+[GLM con Distribución de Bernoulli (Binomial)](Anova.html)
 
-[Kuskall Wallis y Análisis de frecuencias (Chi-cuadrado)](ChiCuadrado.html)
+[GLM con Distribución Binomial para Proporciones](ChiCuadrado.html)
 
-[Pruebas de Correlación Pearson y Spearman](Correlacion.html)
+[Análisis de Componentes Principales (PCA)](Correlacion.html)
 
 # Metodología de Enseñanza:
 
@@ -69,8 +69,8 @@ Nuestro enfoque educativo se basa en la práctica activa y el aprendizaje intera
 
 # Requisitos Previos:
 
-No se requiere experiencia previa en estadística ni en programación en R. Este curso está diseñado para principiantes, pero también es adecuado para aquellos con conocimientos básicos que deseen consolidar sus habilidades.
+Se requiere haber completado el curso de [nivel básico](https://hn-biology-investigation.github.io/TemarioCursoAnalisisEstadisticoBasico/) o uno similar.
 
-¡Únete a nosotros en este emocionante viaje hacia el dominio de la estadística utilizando R y RStudio! Conviértete en un analista de datos competente y potencia tu carrera profesional.
+Este curso intermedio está diseñado para aquellos que desean profundizar en sus conocimientos de estadística y adquirir habilidades más avanzadas en el análisis de datos utilizando R y RStudio. ¡Esperamos que te unas a nosotros en este emocionante viaje hacia la estadística avanzada!
 
 ![HN Biology Investigation Academy](HN%20Cursos%20publicidad/HN%20Biology%20Inv%20large.jpg)
