@@ -1,0 +1,76 @@
+---
+title: "Temario del Curso de Estadística Nivel Básico"
+author: "David Murillo"
+format: html
+editor: visual
+---
+
+[<img src="HN Cursos publicidad/HN Biology Inv Circle.jpg" align="right" width="100"/>](https://www.hnbiology.org/)
+
+¿Quieres adentrarte en el mundo de la estadística pero no sabes por dónde empezar? ¡Este curso es perfecto para ti! En nuestro programa de Estadística Básica, te introduciremos en los fundamentos esenciales de la estadística utilizando la plataforma R y RStudio.
+
+# Inscripciones
+
+<!-- Start Badges -->
+
+| [Whapsapp](http://wa.me/+50499549551) \| [Facebook](https://www.facebook.com/Hn.Biology.Investigation?mibextid=ZbWKwL) \| [email](admi@hnbiology.org) \| [website](https://www.hnbiology.org/) \|
+
+<!-- End Badges -->
+
+# Costos de Inscripción:
+
+-   Inversión en USD (Dólares estadounidenses): 30 USD.
+
+-   Inversión para hondureños: 700 Lempiras hondureños.
+
+# Métodos de Pago:
+
+-   Pago Internacional por [PayPal](https://www.paypal.com/paypalme/hnbiologyinv) .
+
+-   Pago para hondureños por Banco Atlántida, BANPAÍS y BAC Honduras: Por favor, solicita la información pertinente.
+
+-   Otras formas de pago:
+
+[MoneyGram](https://www.moneygram.com/mgo/us/es/send/como-enviar-dinero/enviar-en-linea/).
+
+[DineroExpress](https://www.dineroexpress.com/WebPortalDexDigital/)
+
+# Modalidades del Curso:
+
+-   Modalidad Asincrónica: Descripción: Tendrás acceso a nuestra plataforma educativa donde encontrarás tutoriales detallados para cada tema del curso. Además, tendrás acceso a todos los materiales y recursos necesarios para tu aprendizaje. Incluye tres asesorías individuales de una hora cada una con nuestros asesores.
+
+-   Modalidad en Vivo: Descripción: Durante el año, ofreceremos 3 o 4 cursos en vivo a través de la plataforma Zoom. Estos cursos serán impartidos en tiempo real y también tendrás acceso a la plataforma educativa con las grabaciones de cada clase y todos los recursos necesarios para tu aprendizaje.
+
+# Certificación:
+
+-   Descripción: Al finalizar exitosamente el curso y completar las actividades asignadas, recibirás un certificado emitido por nuestra institución. Todas las actividades serán entregadas y revisadas por nuestros instructores para garantizar la calidad del aprendizaje y la validez del certificado.
+
+# Descripción del Curso:
+
+En este curso, exploraremos los conceptos clave de la estadística de una manera accesible y práctica, utilizando ejemplos del mundo real y actividades interactivas. Desde la comprensión de datos hasta la interpretación de resultados, te guiaremos a través de cada paso para que puedas desarrollar una base sólida en análisis estadístico.
+
+# Temas que Cubriremos:
+
+[Introducción a R y RStudio:](Introduccion.html).
+
+[Comandos básico, uso de scripts y Estadística descriptiva](EstadisticaDescriptiva.html)
+
+[Pruebas de normalidad, Pruebas de hipótesis (T-Student)](Hipotesis.html)
+
+[Pruebas de homocedasticidad y Análisis de varianza (ANOVA)](Anova.html)
+
+[Kuskall Wallis y Análisis de frecuencias (Chi-cuadrado)](ChiCuadrado.html)
+
+[Pruebas de Correlación Pearson y Spearman](Correlacion.html)
+
+# Metodología de Enseñanza:
+
+Nuestro enfoque educativo se basa en la práctica activa y el aprendizaje interactivo. A lo largo del curso, trabajarás en ejercicios prácticos y proyectos que te permitirán aplicar directamente lo que aprendas. Además, tendrás acceso a recursos complementarios y a un equipo de instructores dedicados que te brindarán apoyo individualizado cuando sea requerido.
+
+# Requisitos Previos:
+
+No se requiere experiencia previa en estadística ni en programación en R. Este curso está diseñado para principiantes, pero también es adecuado para aquellos con conocimientos básicos que deseen consolidar sus habilidades.
+
+¡Únete a nosotros en este emocionante viaje hacia el dominio de la estadística utilizando R y RStudio! Conviértete en un analista de datos competente y potencia tu carrera profesional.
+
+![HN Biology Investigation Academy](HN%20Cursos%20publicidad/HN%20Biology%20Inv%20large.jpg)
