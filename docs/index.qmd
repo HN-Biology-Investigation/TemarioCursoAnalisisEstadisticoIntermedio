@@ -7,7 +7,7 @@ editor: visual
 
 [<img src="HN Cursos publicidad/HN Biology Inv Circle.jpg" align="right" width="100"/>](https://www.hnbiology.org/)
 
-Si estás interesado en profundizar en el mundo de la estadística, ¡este curso intermedio es perfecto para ti! En este curso intermedio, exploraremos temas más avanzados en estadística utilizando R y RStudio. 
+Si estás interesado en profundizar en el mundo de la estadística, ¡este curso intermedio es perfecto para ti! En este curso intermedio, exploraremos temas más avanzados en estadística utilizando R y RStudio.
 
 # Inscripciones
 
@@ -19,9 +19,9 @@ Si estás interesado en profundizar en el mundo de la estadística, ¡este curso
 
 # Costos de Inscripción:
 
--   Inversión en USD (Dólares estadounidenses): 35 USD.
+-   Inversión en USD (Dólares estadounidenses): 45 USD (Internacional).
 
--   Inversión para hondureños: 800 Lempiras hondureños.
+-   Inversión para hondureños: 1,100 LPS (Hondureños).
 
 # Métodos de Pago:
 
